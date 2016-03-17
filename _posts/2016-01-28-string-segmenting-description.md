@@ -4,7 +4,7 @@ title: String Segmentation Description
 
 #Below is a description I tried to write during our first week of Code School regarding the String Segmentation Program we had been working on since day two.
 
-I was thinking about re-writing the whole thing, but I think I'll leave it like this because it'll be nice to see how my explanations and understanding of this stuff deepends and expands as I go through this class. I have a feeling I'll look back on this description and say to myself "Yeah... but I didn't *really* know what I was doing." Heh.
+I was thinking about re-writing the whole thing, but I think I'll leave it like this because it'll be nice to see how my explanations and understanding of this stuff depends and expands as I go through this class. I have a feeling I'll look back on this description and say to myself "Yeah... but I didn't *really* know what I was doing." Heh.
 
 ##Description of String Segmenting Program:
 
@@ -42,7 +42,7 @@ our final output will be stored (hopefully an array full of "real" words as foun
 This if statement is for the absolute simplest scenario. 
 It calls the valid_word?() method as defined in our dictionary method - which essentially looks at an array of words and returns true or false depending on whether or not the word is contained in the dictionary.
 
-The simpliest scenario is where the string that is passed through our method is a string that is simply one word. In this case, no parsing needs to occur in our string and we can run it, as is, through our valid_word checker and we'll should get the string returned into our final array.
+The simplest scenario is where the string that is passed through our method is a string that is simply one word. In this case, no parsing needs to occur in our string and we can run it, as is, through our valid_word checker and we'll should get the string returned into our final array.
 
 --------------------
 
